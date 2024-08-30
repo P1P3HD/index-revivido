@@ -1,0 +1,52 @@
+input: .
+output: .retype
+url: https://noir-dexprkr.github.io/lcdh-index/ # Add your website address here
+branding:
+  title: LCDH
+  logo: Icon-white.png
+  logoDark: Icon-dark.png
+  label: Index
+  
+meta:
+  title: " | LCDH"
+  
+  
+links:
+  - text: Facebook 
+    icon: people
+    link: https://www.facebook.com/groups/losconsejosdehomero/?ref=share
+    target: blank
+  - text: Discord
+    icon: rocket
+    link: https://discord.gg/RaJEJPQYPb
+    target: blank
+  - text: Telegram
+    icon: paper-airplane
+    link: https://t.me/LosConsejosDeHomeroOficial
+    target: blank
+    
+search: 
+    mode: full
+    noResultsFoundMsg: No tenemos lo que buscas. Si es un juego o Aplicación usa los buscadores, si no haz una petición.
+    placeholder: Busca aquí
+    preload: true
+    
+editor:
+  enabled: true
+
+
+footer:
+  copyright: "&copy; Este sitio es una recopilacion de links, no estamos ligados al origen de estos."
+  links: 
+    - text: Actualizado 28/04/24
+      icon: sync
+      link: https://www.youtube.com/watch?v=4OvhrzXu4Yo
+      target: blank
+    - text: Dex
+      icon: heart-fill
+      link: https://rentry.co/links-noir-room
+      target: blank
+    - text: Pipe
+      icon: heart
+      link: https://rentry.co/PipeOmari
+      target: blank
